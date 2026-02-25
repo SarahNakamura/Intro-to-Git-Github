@@ -10,10 +10,10 @@ By the end of this lab, you should be able to:
 
 - Explain the concepts of a **repo**, **commit**, **branch**, **remote**, and **pull request**
 - Use common Git commands to:
-  - inspect changes and history (`status`, `diff`, `log`)
+  - inspect changes and history (`status`, `diff`)
   - stage and commit (`add`, `commit`)
   - work with branches (`switch`, `branch`)
-  - sync with GitHub (`remote`, `fetch`, `pull`, `push`)
+  - sync with GitHub (`fetch`, `pull`, `push`)
 - Create and merge a **Pull Request (PR)** in GitHub
 - Resolve a **merge conflict** and understand what Git is asking you to do
 - Get introduced to **rebase** as a way to update your branch with the latest `main`
