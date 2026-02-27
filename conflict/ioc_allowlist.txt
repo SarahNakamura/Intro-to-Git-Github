@@ -12,6 +12,6 @@ okta.com
 github.com
 
 # CONFLICT_ZONE (edit the next line only)
-newyorktimes
+geekforgeeks
 
 # End of file
